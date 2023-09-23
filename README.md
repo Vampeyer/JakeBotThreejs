@@ -4,6 +4,11 @@ Three JS room with high definition.
 
 <img src="Jakebo3js.gif" > </img>
 
+
+----- Just download , as - is , and run locally , or do it in a build for all I care. 
+------------------------------- 
+
+
 ---- Not certan if this method directly works for building , ---- 
 --- Do not trust these notes 100 % ....
 
